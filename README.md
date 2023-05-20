@@ -1,2 +1,2 @@
-Open this files with Fusion 360
 # Auto-Cad-Projects
+To acess this files download the Zip and open in Fusion 360
